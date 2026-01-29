@@ -51,6 +51,9 @@ dependencies:
   - r-readxl
   - r-rcolorbrewer
   - r-gplots
+  - r-igraph
+  - r-ggtangle
+  - r-enrichplot
   
   # JupyterLab Variable inspector
   - pip
