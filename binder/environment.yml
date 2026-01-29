@@ -50,6 +50,7 @@ dependencies:
   - r-writexl
   - r-readxl
   - r-rcolorbrewer
+  - r-gplots
   
   # JupyterLab Variable inspector
   - pip
